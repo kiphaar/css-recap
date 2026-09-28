@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root{ 
         --acid-lime: #c8ff00;
         --void-black: #080808;
@@ -16,3 +17,31 @@ h1{
     color: var(--acid-lime);
 }
 
+=======
+/* ========================================
+   VARIABELEN
+======================================== */
+
+:root {
+  --void-black: #080808;
+  --bone: #f0efe7;
+  --acid-lime: #c8ff00;
+  --raw-silver: #aaaaaa;
+  --dark-grey: #292929;
+}
+
+/* ========================================
+   RESET
+======================================== */
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+p {
+  margin: 0;
+}
+>>>>>>> be1d665fa6ea720e2a46f011519a2c5fcd933d61

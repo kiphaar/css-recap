@@ -1,0 +1,18 @@
+:root{ 
+        --acid-lime: #c8ff00;
+        --void-black: #080808;
+}
+
+*{
+    box-sizing: border-box
+}
+
+body{
+    margin 0;
+}
+
+
+h1{
+    color: var(--acid-lime);
+}
+
